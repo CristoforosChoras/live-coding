@@ -1,0 +1,14 @@
+nav{
+    background-color: #0F1111;;
+}
+nav ul li{
+    display: inline;
+    margin-right: 2rem;
+    font-size: 16px;
+    line-height: 1em;
+    }
+    nav ul li a{
+        color: #fff;
+        text-decoration: none;
+        
+    }
