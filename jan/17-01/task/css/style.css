@@ -1,0 +1,48 @@
+section{
+    display: flex;
+    
+}
+.blue{
+    height: 150px;
+    width: 90px;
+    border: black solid;
+    background-color: blue;
+
+
+}
+.purple{
+    
+    
+    border-bottom: 156px solid purple;
+    border-right: 150px solid transparent;
+    margin-left: 10px;
+  
+
+}
+.green{
+    width: 150px;
+    height: 150px;
+    border: black solid;
+    background-color: green;
+    margin-left: 10px;
+    
+
+}
+.yellow{
+    width: 150px;
+    height: 150px;
+    border: black solid;
+    background-color: yellow;
+    border-radius: 80px;
+    margin-left: 10px;
+
+
+}
+
+.black{
+    width: 150px;
+    height: 150px;
+    
+    background-color: black;
+    
+}
