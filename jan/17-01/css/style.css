@@ -1,3 +1,35 @@
+<<<<<<< HEAD
 body{ 
     background-color: aqua;
 }
+=======
+body {
+  background-color: whitesmoke;
+}
+h1,
+h2,
+h3,
+#top,
+.dark,
+nav ul li a {
+  color: blue;
+}
+h1 {
+  background-color: gray;
+}
+section div {
+  width: 3rem;
+  height: 3rem;
+  border: 2px black solid;
+  border-radius: 50%;
+}
+#red {
+  background-color: red;
+}
+#orange {
+  background-color: orange;
+}
+#green {
+  background-color: green;
+}
+>>>>>>> 0611cb6d83e528f2c8d87403e4bf0cd3571b86d5
