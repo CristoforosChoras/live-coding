@@ -15,9 +15,3 @@ th,td{
    tr:nth-child(2n) :nth-child(2n+1), tr:nth-child(2n-1) :nth-child(2n){
       background-color: black;
   }
-
-  tr:nth-child(2n-1) :nth-child(2n){
-      background-color: green;
-  }
-
-  
