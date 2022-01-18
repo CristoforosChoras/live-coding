@@ -1,0 +1,17 @@
+/* font formating lesson */
+h1{
+    letter-spacing: 10px;
+    text-align: center;
+}
+
+p{
+    color: rgb(81,245,66);
+    /* letter-spacing: 10px; */
+    word-spacing: 10px;
+    line-height: 30px;
+    text-align: center;
+    /* text-transform: capitalize; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
