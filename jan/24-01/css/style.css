@@ -76,7 +76,7 @@ select:focus {
   content: "";
   border-radius: 100%;
   left: 0.25rem;
-  bottom: 0.35rem;
+  bottom: 0.50rem;
   width: 1rem;
   height: 1rem;
   background-color: white;
