@@ -28,7 +28,7 @@ header nav .menu {
   flex-direction: column;
 }
 .hamburger div {
-  width: 2.5rem;
+  width:2.5rem;
   border: 2px gray solid;
   background-color: gray;
 }

@@ -17,18 +17,34 @@ body {
     "card"
     "footer";
 }
-@media only screen and (min-width: 600) {
+@media only screen and (min-width: 600px) {
   body {
     /* font-size: 2.5rem; */
     grid-template-rows: 15vh repeat(4, 75vh);
   }
 }
-@media only screen and (min-width: 900) {
+@media only screen and (min-width: 900px) {
   body {
-    font-size: 1rem;
-    grid-template-rows: 15vh repeat(4, 65vh);
+    font-size: 2rem;
+    grid-template-columns: 1fr;
+    grid-template-rows: 10vh repeat(4, 65vh);
   }
-  .menu {
-    font-size: 1rem;
+  header nav .menu h2{
+    width: 30vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    margin-left: 50%;
+  }
+  header nav {
+    width: 97%;
+  }
+  .hamburger {
+    align-self:center;
+  }
+  header .logo {
+    width: 3rem;
+    height: 2.5rem;
   }
 }
